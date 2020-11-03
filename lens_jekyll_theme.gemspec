@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "lens_jekyll_theme"
   spec.version       = "1.2"
-  spec.authors       = ["Andrew Banchich"]
+  spec.authors       = ["Sheryl Hsiung"]
   spec.email         = ["andrewbanchich@gmail.com"]
 
   spec.summary       = %q{A Jekyll version of the "Lens" theme by HTML5 UP.}
