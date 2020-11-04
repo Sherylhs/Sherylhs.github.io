@@ -1,15 +1,15 @@
-I",<!-- Thumbnail -->
+I"L<!-- Thumbnail -->
 <section id="thumbnails">
 	<article>
 		<a class="thumbnail" href="assets/images/fulls/02.jpg" data-position="left center"><img src="assets/images/thumbs/02.jpg" alt="" /></a>
-		<h2>Vivamus convallis libero</h2>
-		<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+		<h2>Education</h2>
+		<p>Carnegie Mellon University | Information Systems Management</p>
 	</article>
 
 	<article>
 		<a class="thumbnail" href="assets/images/fulls/04.jpg" data-position="left center"><img src="assets/images/thumbs/04.jpg" alt="" /></a>
-		<h2>Donec maximus nisi eget</h2>
-		<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+		<h2>Mount Gongga</h2>
+		<p>The mighty Gongga is located in Sichuan Ganzi province. She is the most magnificent beauty I've ever seen.</p>
 	</article>
 
 	<article>
@@ -26,8 +26,8 @@
 
 	<article>
 		<a class="thumbnail" href="assets/images/fulls/12.jpg" data-position="left center"><img src="assets/images/thumbs/12.jpg" alt="" /></a>
-		<h2>Mattis lorem sodales</h2>
-		<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+		<h2>Mongolia Desert</h2>
+		<p>My first time riding a camel in a desert. October in Hohhot is fre cold but the trip was still nice to have some friends around.</p>
 	</article>
 
 	<article>
@@ -38,8 +38,8 @@
 
 	<article>
 		<a class="thumbnail" href="assets/images/fulls/03.jpg" data-position="left center"><img src="assets/images/thumbs/03.jpg" alt="" /></a>
-		<h2>Nec accumsan enim felis</h2>
-		<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+		<h2>Life in Pittsburgh</h2>
+		<p>Dawn from Mt Washington at 5 am is the best in Summer.</p>
 	</article>
 
 	<article>

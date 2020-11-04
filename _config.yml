@@ -1,6 +1,6 @@
 # Site settings
 title: Sheryl Hsiung
-description: From Taiwan now lives in Pittsburgh.
+description: Bienvenue dans <p> la galerie de ma vie.</p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Sheryl Hsiung
