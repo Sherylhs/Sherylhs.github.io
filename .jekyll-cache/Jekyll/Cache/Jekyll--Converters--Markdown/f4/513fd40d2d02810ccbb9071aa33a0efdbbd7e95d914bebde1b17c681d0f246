@@ -1,4 +1,4 @@
-I"p<!-- Thumbnail -->
+I"è<!-- Thumbnail -->
 <section id="thumbnails">
 	<article>
 		<a class="thumbnail" href="assets/images/fulls/02.jpg" data-position="left center"><img src="assets/images/thumbs/02.jpg" alt="" /></a>
@@ -14,8 +14,8 @@
 
 	<article>
 		<a class="thumbnail" href="assets/images/fulls/08.jpg" data-position="left center"><img src="assets/images/thumbs/08.jpg" alt="" /></a>
-		<h2>Gravida Quis Varius Enim</h2>
-		<p><h1>Rakuten Tokyo</h1><p>I was able to develop large scale fonrt-end application using ReactJS, Redux and Node.</p></p>
+		<h2>Work Experience</h2>
+		<p><h1>Rakuten Tokyo -- Software Engineer</h1><p>I was able to develop large scale front-end application using ReactJS, Redux and Node for Rakuten Travel.</p></p>
 	</article>
 
 	<article>
