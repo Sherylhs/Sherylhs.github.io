@@ -1,0 +1,75 @@
+I"ö<!-- Thumbnail -->
+<section id="thumbnails">
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/02.jpg" data-position="left center"><img src="assets/images/thumbs/02.jpg" alt="" /></a>
+		<h2>Education</h2>
+		<p>Carnegie Mellon University | Information Systems Management</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/04.jpg" data-position="left center"><img src="assets/images/thumbs/04.jpg" alt="" /></a>
+		<h2>Sheryl Ji-han Hsiung</h2>
+		<p>I was born and raised in Taiwan. I have an undergraduate degree in Economics and French from NSYSU and a master degree in Information Systems Management from CMU. I love playing the piano, traveling, swimming and Scuba Diving (Open Water Diver).</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/08.jpg" data-position="left center"><img src="assets/images/thumbs/08.jpg" alt="" /></a>
+		<h2>Shinjuku</h2>
+		<p><h1></h1></p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/10.jpg" data-position="left center"><img src="assets/images/thumbs/10.jpg" alt="" /></a>
+		<h2>The Great Ocean Road</h2>
+		<p>When I saw the 12 Apostles, I realized the reason why God sent me to Australia.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/12.jpg" data-position="left center"><img src="assets/images/thumbs/12.jpg" alt="" /></a>
+		<h2>Mongolia Desert</h2>
+		<p>My first time riding a camel in a desert. October in Hohhot is freezing, still, the trip was  nice to have some friends around.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/09.jpg" data-position="left center"><img src="assets/images/thumbs/09.jpg" alt="" /></a>
+		<h2>Tokyo Station</h2>
+		<p>I was at the abyss of the city jungle, wondering what it's like to have a cup of tea on top of the buildings.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/03.jpg" data-position="left center"><img src="assets/images/thumbs/03.jpg" alt="" /></a>
+		<h2>Life in Pittsburgh</h2>
+		<p>Dawn from Mt Washington at 5 am is the best in Summer.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/05.jpg" data-position="left center"><img src="assets/images/thumbs/05.jpg" alt="" /></a>
+		<h2>Glenelg Beach Adelaide</h2>
+		<p>The sunset settles every day here, and so was my heart.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/11.jpg" data-position="left center"><img src="assets/images/thumbs/11.jpg" alt="" /></a>
+		<h2>Granite Island</h2>
+		<p>You never know what a wanderer will get or see.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/06.jpg" data-position="left center"><img src="assets/images/thumbs/06.jpg" alt="" /></a>
+		<h2>Mount Fuji</h2>
+		<p>I would say my engineering life starts here, where I see the possibilities from my mentors.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/07.jpg" data-position="left center"><img src="assets/images/thumbs/07.jpg" alt="" /></a>
+		<h2>Kamakura</h2>
+		<p>We went to see Hydrangea on a rainy day. You could never stop the adventure when you're with your best friend.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/01.jpg" data-position="left center"><img src="assets/images/thumbs/01.jpg" alt="" /></a>
+		<h2>Way to Barrossa</h2>
+		<p>Epictetus once said, "Do not seek to have events happen as want them to, but instead want them to happen as they do happen." I guess that's what faith is.</p>
+	</article>
+</section>
+:ET

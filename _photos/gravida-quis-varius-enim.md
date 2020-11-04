@@ -1,6 +1,6 @@
 ---
-title: Shinjuku
+title: Work Experience
 image: assets/images/fulls/08.jpg
 thumbnail: assets/images/thumbs/08.jpg
-caption: Even though I'm at the highest point, I still couldn't see the end of the city lights in Tokyo.
+caption: <h1>Rakuten Tokyo -- Software Engineer</h1><p>I was able to develop large scale fonrt-end application using ReactJS, Redux and Node for Rakuten Travel.</p>
 ---
